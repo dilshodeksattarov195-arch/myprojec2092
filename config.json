@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configfelete",
+        "uuid": 3943420,
+        "checksum": "blc2r"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
